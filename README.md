@@ -1,0 +1,2 @@
+# Ali-kurs
+Programlaşdirma öyrən 
